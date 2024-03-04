@@ -5,7 +5,7 @@
 - <b>Comptia A+ 1102 lesson 1.3</b>
   - [Understanding Microsoft Management controls](https://github.com/buenodiaz87/comptia-A-1102-1.3/tree/main)
 - <b>Original HTML penguin from free code camp</b>
-  - [https://github.com/buenodiaz87/HTML-penguin/blob/main/README.md) 
+  - [HTML Penguin](https://github.com/buenodiaz87/HTML-penguin/blob/main/README.md) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
