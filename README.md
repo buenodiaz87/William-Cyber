@@ -1,11 +1,11 @@
-<h1>Hi, I'm William! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Product Specialist</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm William! <br/><a href="https://github.com/joshmadakor1">developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Product Specialist</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>IT Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Comptia A+ 1102 lesson 1.3</b>
   - [Understanding Microsoft Management controls](https://github.com/buenodiaz87/comptia-A-1102-1.3/tree/main)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Original HTML penguin from free code camp</b>
+  - [https://github.com/buenodiaz87/HTML-penguin/blob/main/README.md) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
